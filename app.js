@@ -21,7 +21,7 @@ let loop = ()=>{
 
 let  interval = ()=>{
     setInterval(()=>{
-        if(timer >= 0){
+        if(timer > 0){
 
             timer--
             box2.textContent = timer
