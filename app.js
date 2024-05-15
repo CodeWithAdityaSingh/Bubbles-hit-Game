@@ -2,7 +2,7 @@ let box2 = document.querySelector(".box2")
 let increasment = 0;
 let a = 0
 let b = 0 ;
-let timer = 6;
+let timer = 60;
 
 let string = "";
 
